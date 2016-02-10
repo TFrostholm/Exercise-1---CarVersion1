@@ -19,6 +19,7 @@ namespace Sandbox
             double engineSize;
             double kilometersPerLiter;
             Boolean isDiesel;
+            Boolean isInsanelyCool;
 
 
             // YOUR TASK: Assign some proper values to the variables
@@ -33,6 +34,7 @@ namespace Sandbox
             engineSize = 4.4;
             kilometersPerLiter = 12;
             isDiesel = false;
+            isInsanelyCool = true;
 
 
 
